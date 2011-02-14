@@ -1,0 +1,16 @@
+{
+	"name": "convert",
+	"description": "A simple little string encoding conversion utility",
+	"version": "0.0.1",
+	"repository": {},
+	"author": "Mikael Abrahamsson <mikael.abrahamsson@gmail.com> (tud3.com)",
+	"directories": {
+		"lib": "."
+	},
+	"scripts": {
+		"test": "node test.js"
+	},
+	"engines": {
+		"node": "*"
+	}
+}
